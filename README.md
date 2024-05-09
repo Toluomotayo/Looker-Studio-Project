@@ -6,7 +6,7 @@ This project aims to provide a comprehensive financial analysis dashboard using 
 ## Features
 1. Visualizations: Interactive charts and graphs for analyzing key financial indicators.
 2. Drill-down Capabilities: Dive deeper into specific data points to uncover underlying trends.
-3. Customizable Filters: Tailor the dashboard to specific time periods, regions, or business units.
+3. Customizable Filters: Tailor the dashboard to specific periods, regions, or business units.
 4. Performance Metrics: Track KPIs and performance benchmarks to assess financial health.
 
 ## Contributor
