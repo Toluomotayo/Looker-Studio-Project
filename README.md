@@ -13,7 +13,8 @@ This project aims to provide a comprehensive financial analysis dashboard using 
 Tolulope Olarewaju 
 
 ## Acknowledgement
-Built using Looker Studio, an intuitive platform for data exploration and analysis.
+1. Built using Looker Studio, an intuitive platform for data exploration and analysis.
+2. Grateful to the IBM Data Analyst Professional Certificate and Xamasco (YouTube) who helped me deepen my understanding of Looker Studio concepts and techniques.
 
 ## License 
 
